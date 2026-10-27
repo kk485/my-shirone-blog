@@ -55,6 +55,13 @@ export type BannerConfig = {
 			/** 完成后是否循环播放（默认 true） */
 			loop: boolean;
 		};
+		links?: Array<{
+			name: string;
+			icon: string;
+			url: string;
+			showName?: boolean;
+			external?: boolean;
+		}>;
 	};
 	carousel: {
 		enable: boolean;

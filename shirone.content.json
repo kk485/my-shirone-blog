@@ -1,0 +1,7 @@
+{
+  "source": {
+    "type": "git",
+    "remote": "https://github.com/kk485/my-shirone-content.git",
+    "branch": "main"
+  }
+}

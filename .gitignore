@@ -72,3 +72,7 @@ artifacts/lighthouse/*
 
 # generated AI skills plugin packages
 artifacts/shirone-ai-*
+
+# 防止私有内容被意外推送到主题仓库
+src/content/
+src/data/
