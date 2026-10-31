@@ -3,6 +3,7 @@ title: "Markdown 字段参数卡片"
 description: "结构化 API 与组件参数说明卡片排版演示。"
 published: 2026-08-30
 draft: true
+image: "https://s41.ax1x.com/2026/10/31/pncPKhj.webp"
 series: "starter-guide"
 seriesOrder: 2
 ---

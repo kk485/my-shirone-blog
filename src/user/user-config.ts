@@ -792,9 +792,6 @@ const navBar: NavBarConfigOverride = {
 					preset: "Projects",
 				},
 				{
-					preset: "Devices",
-				},
-				{
 					preset: "About",
 				},
 				{
