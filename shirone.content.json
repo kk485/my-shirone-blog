@@ -1,7 +1,7 @@
 {
   "source": {
     "type": "git",
-    "remote": "https://github.com/kk485/my-shirone-content.git",
+    "url": "https://${GITHUB_TOKEN}@github.com/kk485/my-shirone-content.git",
     "branch": "main"
   }
 }
